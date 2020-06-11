@@ -1,0 +1,29 @@
+[
+  {
+    "username": "13192283455",
+    "register_word": "123456",
+    "login_password": "123456",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200
+  },
+  {
+    "username": "13192283456",
+    "register_word": "123456",
+    "login_password": "123456",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200
+  },
+  {
+    "username": "13192283457",
+    "register_word": "123456",
+    "login_password": "123456",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200
+  }
+]
